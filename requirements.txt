@@ -1,1 +1,2 @@
+# https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html
 numpy >= 1.14.5
