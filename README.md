@@ -3,6 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RafaelBaquero/lab-robos-manip/HEAD)
 
 Markdown: https://www.markdownguide.org/
+
 Python 3: https://docs.python.org/3/tutorial/
 Spacial Math Python Library: https://petercorke.github.io/spatialmath-python/
   - ReadMe: https://github.com/petercorke/spatialmath-python#readme
