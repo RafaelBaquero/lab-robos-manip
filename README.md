@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RafaelBaquero/lab-robos-manip/HEAD)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RafaelBaquero/lab-robos-manip)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RafaelBaquero/lab-robos-manip)
 
 Markdown: https://www.markdownguide.org/
 
