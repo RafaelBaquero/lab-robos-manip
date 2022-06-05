@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RafaelBaquero/lab-robos-manip/HEAD)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://mybinder.org/v2/gh/RafaelBaquero/lab-robos-manip/HEAD)
+
 Markdown: https://www.markdownguide.org/
 
 Python 3: https://docs.python.org/3/tutorial/
