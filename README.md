@@ -8,7 +8,7 @@ Markdown: https://www.markdownguide.org/
 
 Python 3: https://docs.python.org/3/tutorial/
 
-Spacial Math Python Library: https://petercorke.github.io/spatialmath-python/
+Spatial Math Python Library: https://petercorke.github.io/spatialmath-python/
   - ReadMe: https://github.com/petercorke/spatialmath-python#readme
   - Introductions: https://github.com/petercorke/spatialmath-python/tree/master/notebooks
   - Spatial Math Base functions: https://pypi.org/project/spatialmath-python/
